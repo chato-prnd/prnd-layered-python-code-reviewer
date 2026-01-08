@@ -1,5 +1,5 @@
 ---
-name: layered-python-code-reviewer
+name: prnd-layered-python-code-reviewer
 description: Review Python code changes with a focus on layered architecture boundaries, DI/DIP, configuration validation, typing quality (mypy/flake8 readiness), naming/docstring accuracy, and testability. Use when asked to “code review”, “PR review”, or “리뷰해줘” to prevent repeat feedback on architecture regressions and low-signal changes.
 ---
 
